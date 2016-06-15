@@ -10,7 +10,7 @@ import UIKit
 
 class MainViewController: UITableViewController, SimplePingDelegate {
 
-    let hostName = "www.apple.com"
+    let hostName = "www.baidu.com"
     
     override func viewDidLoad() {
         super.viewDidLoad()
